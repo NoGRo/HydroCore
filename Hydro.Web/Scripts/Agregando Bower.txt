@@ -1,0 +1,4 @@
+Bower en Visual studio
+http://blogs.msdn.com/b/cdndevs/archive/2015/02/17/using-bower-with-visual-studio-2013.aspx
+Gulp en visual studio: 
+http://www.davepaquette.com/archive/2014/10/08/how-to-use-gulp-in-visual-studio.aspx

@@ -1,0 +1,18 @@
+{
+  "name": "Hydro.Web",
+  "version": "0.0.0",
+  "homepage": "https://github.com/NoGRo/HydroCore",
+  "authors": [
+    "nogro <dimnogro@gmail.com>"
+  ],
+  "description": "web mvc con .net c# para pagina control del hydro core",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "jquery-validation": "~1.13.1",
+    "jquery-validation-unobtrusive": "~3.2.2",
+    "modernizr": "~2.8.3",
+    "bootstrap": "~3.3.2",
+    "respond-minmax": "~1.4.2"
+  }
+}
